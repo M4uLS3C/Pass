@@ -1,0 +1,15 @@
+maked by @m4uls3c
+
+
+untuk berjalan dengan lancar kalian harus ketikkan
+
+- pkg install nano
+- cd ../usr/etc && nano bash.bashr
+
+kalin ketikkan
+
+
+cd Pass
+sh main.sh
+
+clear
