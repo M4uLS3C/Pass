@@ -1,0 +1,2 @@
+# Pass
+Password Termux Sederhana 
